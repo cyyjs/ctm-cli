@@ -2,7 +2,16 @@
 
 generator template for [cyytemplate](https://github.com/cyytemplate)
 
-[![NPM Version][npm-image]][npm-url]
+[![npm version][npm-image]][npm-url]
+[![npm license][license-image]][mit]
+
+
+[mit]: LICENSE
+[npm-image]: https://img.shields.io/npm/v/ctm-cli
+[npm-url]: https://www.npmjs.com/package/ctm-cli
+[license-image]: https://img.shields.io/npm/l/ctm-cli.svg
+
+
 
 ## Installation
 
