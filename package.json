@@ -1,6 +1,6 @@
 {
   "name": "ctm-cli",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "generator template for cyy",
   "bin": {
     "ctm-cli": "./bin/cli"
