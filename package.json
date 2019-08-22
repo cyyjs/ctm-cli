@@ -22,6 +22,7 @@
     "commander": "^3.0.0",
     "download-git-repo": "^2.0.0",
     "figlet": "^1.2.3",
+    "fs-extra": "^8.1.0",
     "graphql-request": "^1.8.2",
     "inquirer": "^6.5.1",
     "lodash.get": "^4.4.2",
