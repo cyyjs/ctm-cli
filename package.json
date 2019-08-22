@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "generator template for cyy",
   "bin": {
-    "cli": "./bin/cli"
+    "ctm-cli": "./bin/cli"
   },
   "main": "index.js",
   "repository": "git@github.com:cyyjs/ctm-cli.git",
