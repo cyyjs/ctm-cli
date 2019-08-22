@@ -41,5 +41,3 @@ Options:
 Commands:
   create [template] [projectName]  generate a new project from template
 ```
-
-[MIT](LICENSE)
