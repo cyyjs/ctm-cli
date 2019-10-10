@@ -1,5 +1,5 @@
 {
-  "name": "ctm-cli",
+  "name": "@cyyjs/ctm-cli",
   "version": "0.1.3",
   "description": "generator template for cyy",
   "bin": {
@@ -34,6 +34,7 @@
     "husky": "^3.0.3",
     "standard": "^14.0.0-0"
   },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "husky": {
     "hooks": {
       "pre-commit": "yarn lint",
